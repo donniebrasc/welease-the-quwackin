@@ -1,0 +1,7 @@
+Adafruit CircuitPython 9.1.0-beta.3 on 2024-05-22; Waveshare ESP32-S3-GEEK with ESP32S3
+Board ID:waveshare_esp32_s3_geek
+UID:C7FD1AEEBC83
+boot.py output:
+Traceback (most recent call last):
+  File "boot.py", line 12, in <module>
+NameError: name 'GP15' is not defined
